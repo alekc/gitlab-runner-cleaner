@@ -1,6 +1,6 @@
 module gitlab-runner-cleaner
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/rs/zerolog v1.26.1
@@ -23,7 +23,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	gopkg.in/ini.v1 v1.66.2 // indirect
